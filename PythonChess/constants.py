@@ -125,6 +125,7 @@ BOARD_COLOR_LIGHT = "#EADDC5" # Light wood
 BOARD_COLOR_DARK = "#BA8C63"  # Dark wood
 HIGHLIGHT_COLOR = "#70AFFF" # Light blue highlight
 POSSIBLE_MOVE_COLOR = "#A0FFA0" # Light green for possible moves
+CAPTURE_MOVE_COLOR = "#FF8080"
 
 PIECE_VALUES = {
     PAWN: 1, KNIGHT: 3, BISHOP: 3, ROOK: 5, QUEEN: 9, KING: 200
