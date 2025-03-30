@@ -1,4 +1,4 @@
-# sigma-go
+# sigma-chess
 
 ## Project Overview
 This is a machine - learning learning project aimed at building a Chess AI step - by - step from basic to advanced through practical implementation.
